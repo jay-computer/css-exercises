@@ -1,0 +1,15 @@
+.not-mem,
+.mem {
+    /*a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback */
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+.not-mem {
+    /*a yellow background*/
+    background-color: yellow;
+}
+.mem {
+    /*a black background and white text*/
+    background-color: black;
+    color: white;
+}

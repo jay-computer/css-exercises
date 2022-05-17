@@ -1,0 +1,22 @@
+.odd-nums.cooler{
+    font-size: 24px;
+}
+
+.odd-nums{
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif"
+}
+
+#unique-one {
+    font-size: 36px;
+    color: blue;
+
+}
+
+#unique-two {
+    /* light green background, a font size of 24px, and bold */
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
